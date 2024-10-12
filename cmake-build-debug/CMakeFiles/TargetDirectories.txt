@@ -1,0 +1,3 @@
+/Users/mariaclaraseixascheffel/CLionProjects/ProjetoComHerancaParaCalculadora/cmake-build-debug/CMakeFiles/ProjetoComHerancaParaCalculadora.dir
+/Users/mariaclaraseixascheffel/CLionProjects/ProjetoComHerancaParaCalculadora/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mariaclaraseixascheffel/CLionProjects/ProjetoComHerancaParaCalculadora/cmake-build-debug/CMakeFiles/rebuild_cache.dir
